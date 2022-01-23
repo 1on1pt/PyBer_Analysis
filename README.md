@@ -11,5 +11,5 @@ Code:  PyBer_Challenge.ipynb
 Software:  Python 3.7.6; Pandas 1.3.5; Matplotlib; Jupyter Notebook
 
 ## Results
-PyBer provides ridesharing in diverse locations, urban, suburban, and rural areas.  
+PyBer provides ridesharing in diverse locations, including urban, suburban, and rural areas.  
 ## Summary
