@@ -72,7 +72,7 @@ The multiple-line chart below provides additional visualization of the total far
 
 This comprehensive analysis and review of the PyBer ridesharing data provides the basis for the following recommendations to the executive team:
 
-1. It appears that the urban city type would support a slight fare increase.  The overall monthly fare total is fairly stable, with the greatest amount of fluctuation occuring during the month of March.
+1. It appears that the urban city type would support a slight fare increase.  The overall monthly fare total is fairly stable, with the greatest amount of fluctuation occuring during the month of March.  The urban city type has the lowest Average Fare per Ride.
 2. Following this same theme, the suburban city type would support a slight fare increase.  The overall monthly fare total is stable, but was beginning to see an increasing trend in the month of April.
 3. The data would support trying to recruit and increase the number of drivers for the rural city type.  The rural area had the lowest number of drivers, thus possibly limiting the total number of rides that could be completed.  Increasing the number of drivers could also improve rider satisfaction, improve rider access, cut down on wait times, and possibly lower the average fare per ride (and thus improving affordability for the rural driver).
 4. The suburban city type would support an increased number of drivers, thus providing more rides and more overall revenue.  The suburban city type has less than half the total rides of the urban city type, about a fifth of the number of drivers, and about half the revenue.  Increasing the number of suburuban drivers may also help to improve rider access as well as affordability by decreasing the average fare per ride.
