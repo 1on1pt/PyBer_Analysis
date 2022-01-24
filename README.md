@@ -46,9 +46,26 @@ The percent of total drivers correlated directly with the average number of driv
 
 ![image](https://user-images.githubusercontent.com/94148420/150708086-9a0656dc-3375-482f-92cd-7f42e99aed07.png)
 
-The following is an overall summary of the PyBer ridesharing data.
+The following is an overall summary of the PyBer ridesharing DataFrame.
 
 ![image](https://user-images.githubusercontent.com/94148420/150708816-b2f17fd2-10aa-49bb-acd2-a2f566514fa5.png)
+
+**General findings and trends include:**
+
+1. The urban city type had the highest totals for:
+  * Total Rides = 1625
+  * Total Drivers = 2405
+  * Total Fares = $39,854.38
+
+2. The rural city type had the highest totals for:
+  * Average Fare per Ride = $34.62
+  * Average Fare per Driver = $55.49
+
+3. From a rider perspective, the **urban average fare** would be most favorable.  This lower average fare could be due to shorter overall distances traveled in the urban setting.
+4. From a driver perpective, the **rural average fare per driver** would be most attractive.  The greater average fare per driver could be due to greater distances traveled by the driver in the rural setting.
+5. From an overall corporate perspective, the **urban city type** would be the most profitable 
+
+
 
 
 
