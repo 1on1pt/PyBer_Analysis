@@ -28,6 +28,7 @@ The percent of total rides is most with urban at 68.4%, followed by suburban at 
 ![image](https://user-images.githubusercontent.com/94148420/150707036-ec888a54-9af3-49e4-bd8e-f3cf16de1c9c.png)
 
 When reviewing the fare data, rural had the highest average fare at $34.62, followed by suburban at $30.97, with urban have the lowest average fare at $24.53.
+
 ![image](https://user-images.githubusercontent.com/94148420/150707302-78034d46-cfb6-44de-958f-2b352d35b011.png)
 
 Although rural had the highest average fare, urban had the highes % of total fares by city type with 62.7%, this was followed by suburban at 30.5%, and rural had the lowest at 6.8%.
