@@ -18,7 +18,7 @@ Primary differences amongst the data can be observed through the three types of 
 * Suburban
 * Rural
 
-For instance, the following bubble chart shows that in general, the Urban city type has more drivers, cheaper fares, and total number of rides than Suburban and Rural city types.
+For instance, the following bubble chart shows that in general, the Urban city type has more drivers, cheaper fares, and a greater total number of rides than Suburban and Rural city types.
 ![image](https://user-images.githubusercontent.com/94148420/150706409-2d277b89-6b09-42a3-a9fb-e64686e52e1f.png)
 
 
