@@ -61,8 +61,8 @@ The following is an overall summary of the PyBer ridesharing DataFrame.
   * Average Fare per Ride = $34.62
   * Average Fare per Driver = $55.49
 
-3. From a rider perspective, the **urban average fare** would be most favorable.  This lower average fare could be due to shorter overall distances traveled in the urban setting.
-4. From a driver perpective, the **rural average fare per driver** would be most attractive.  The greater average fare per driver could be due to greater distances traveled by the driver in the rural setting, and thus may be a limiting factor on total rides.
+3. From a rider perspective, the **urban average fare** would be most favorable.  This lower average fare could be due to shorter overall distances traveled in the urban setting and a higher volume of total rides.
+4. From a driver perpective, the **rural average fare per driver** would be most attractive.  The greater average fare per driver could be due to greater distances traveled by the driver in the rural setting, and thus may be a limiting factor on total rides and a lower volume of total rides.
 
 The multiple-line chart below provides additional visualization of the total fare by city type over the time period of January 2019 to April 2019.  The urban city type had the highest total fare ranging from $1600 to about $2500.  This was followed by the suburban city type, which ranged from about $650 to $1450.  The least fare generating city type for this time period was rural, bringing in a range of about $50 to $500.  Of interest is the fluctuation in total fare over this time period, with all three city types peaking at the same time towards the end of February.
 
