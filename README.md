@@ -11,5 +11,15 @@ Code:  PyBer_Challenge.ipynb
 Software:  Python 3.7.6; Pandas 1.3.5; Matplotlib; Jupyter Notebook
 
 ## Results
-PyBer provides ridesharing in diverse locations, including urban, suburban, and rural areas.  
+PyBer provides ridesharing in diverse locations, including urban, suburban, and rural areas.  In effort to optimize operations, PyBer also collects extensive data as it relates to city, date, fare ($USD, ride ID, driver count, and type of city (urban, suburban, and rural).
+
+Primary differences amongst the data can be observed through the three types of city:
+* Urban
+* Suburban
+* Rural
+
+For instance, the following bubble chart shows that in general, the Urban city type has more drivers, cheaper fares, and total number of rides than Suburban and Rural city types.
+![image](https://user-images.githubusercontent.com/94148420/150706409-2d277b89-6b09-42a3-a9fb-e64686e52e1f.png)
+
+
 ## Summary
