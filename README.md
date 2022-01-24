@@ -1,7 +1,7 @@
 # PyBer_Analysis
 Exploratory analysis on data to help improve ride share accessibility.
 ## Overview of the Analysis
-As a new data analyst with PyBer, I was tasked with developing an exploratory analysis and creating visulizations by building various charts that would help to tell a story and provide insight on how to boost access to rideshare services and improve affordability in underserved neighborhoods.  Data was provided via two .csv files that contained such metrics as city, date, fare ($USD), ride ID, driver count, and type of city (urban, suburban, and rural).  A summary DataFrame of the ride-sharing data by city type was developed to create a multiple-line graph showing the total weekly fares for each city type.  This analysis was performed writing code script with Python using the Pandas library, Matplotlib, and the Jupyter Notebook and presented to the executive team at PyBer.
+As a new data analyst with PyBer, I was tasked with developing an exploratory analysis and creating visualizations by building various charts that would help to tell a story and provide insight on how to boost access to rideshare services and improve affordability in underserved neighborhoods.  Data was provided via two .csv files that contained such metrics as city, date, fare ($USD), ride ID, driver count, and type of city (urban, suburban, and rural).  A summary DataFrame of the ride-sharing data by city type was developed to create a multiple-line graph showing the total weekly fares for each city type.  This analysis was performed writing code script with Python using the Pandas library, Matplotlib, and the Jupyter Notebook and presented to the executive team at PyBer.
 
 ### Resources
 Data Source:  city_data.csv; ride_data.csv
@@ -62,11 +62,11 @@ The following is an overall summary of the PyBer ridesharing DataFrame.
   * Average Fare per Driver = $55.49
 
 3. From a rider perspective, the **urban average fare** would be most favorable.  This lower average fare could be due to shorter overall distances traveled in the urban setting.
-4. From a driver perpective, the **rural average fare per driver** would be most attractive.  The greater average fare per driver could be due to greater distances traveled by the driver in the rural setting.
-5. From an overall corporate perspective, the **urban city type** would be the most profitable 
+4. From a driver perpective, the **rural average fare per driver** would be most attractive.  The greater average fare per driver could be due to greater distances traveled by the driver in the rural setting, and thus may be a limiting factor on total rides.
 
+The multiple-line chart below provides additional visualization of the total fare by city type over the time period of January 2019 to April 2019.  The urban city type had the highest total fare ranging from $1600 to about $2500.  This was followed by the suburban city type, which ranged from about $650 to $1450.  The least fare generating city type for this time period was rural, bringing in a range of about $50 to $500.  Of interest is the fluctuation in total fare over this time period, with all three city types peaking at the same time towards the end of February.
 
-
-
+![image](https://user-images.githubusercontent.com/94148420/150714740-5240ddcd-b61b-43a1-a7e4-40eb25056f62.png)
 
 ## Summary
+
