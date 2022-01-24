@@ -34,7 +34,7 @@ When reviewing the fare data, rural had the highest average fare at $34.62, foll
 
 ![image](https://user-images.githubusercontent.com/94148420/150707302-78034d46-cfb6-44de-958f-2b352d35b011.png)
 
-Although rural had the highest average fare, urban had the highes % of total fares by city type with 62.7%, this was followed by suburban at 30.5%, and rural had the lowest at 6.8%.
+Although rural had the highest average fare, urban had the highest % of total fares by city type with 62.7%, this was followed by suburban at 30.5%, and rural had the lowest at 6.8%.
 
 ![image](https://user-images.githubusercontent.com/94148420/150707398-0c9e8fcc-c621-4e46-85f8-f693653d2db9.png)
 
