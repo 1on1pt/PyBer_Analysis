@@ -21,7 +21,7 @@ Primary differences amongst the data can be observed by comparing the three type
 For instance, the following bubble chart shows that in general, the Urban city type has more drivers, cheaper fares, and a greater total number of rides than Suburban and Rural city types.
 ![image](https://user-images.githubusercontent.com/94148420/150706409-2d277b89-6b09-42a3-a9fb-e64686e52e1f.png)
 
-In looking at the ride count data by city type, urban is averaging 24.6 rides, suburbant is averaging 17.4 rides and rural is averaging 6.9 rides.
+In looking at the ride count data by city type, urban is averaging 24.6 rides, suburban is averaging 17.4 rides and rural is averaging 6.9 rides.
 ![image](https://user-images.githubusercontent.com/94148420/150706881-52e80faf-99ba-4f32-985e-7e2d75571f9c.png)
 
 The percent of total rides is most with urban at 68.4%, followed by suburban at 26.3%, with rural having the lowest at 5.3%.
