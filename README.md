@@ -19,12 +19,15 @@ Primary differences amongst the data can be observed by comparing the three type
 * Rural
 
 For instance, the following bubble chart shows that in general, the Urban city type has more drivers, cheaper fares, and a greater total number of rides than Suburban and Rural city types.
+
 ![image](https://user-images.githubusercontent.com/94148420/150706409-2d277b89-6b09-42a3-a9fb-e64686e52e1f.png)
 
 In looking at the ride count data by city type, urban is averaging 24.6 rides, suburban is averaging 17.4 rides and rural is averaging 6.9 rides.
+
 ![image](https://user-images.githubusercontent.com/94148420/150706881-52e80faf-99ba-4f32-985e-7e2d75571f9c.png)
 
 The percent of total rides is most with urban at 68.4%, followed by suburban at 26.3%, with rural having the lowest at 5.3%.
+
 ![image](https://user-images.githubusercontent.com/94148420/150707036-ec888a54-9af3-49e4-bd8e-f3cf16de1c9c.png)
 
 When reviewing the fare data, rural had the highest average fare at $34.62, followed by suburban at $30.97, with urban have the lowest average fare at $24.53.
@@ -36,14 +39,16 @@ Although rural had the highest average fare, urban had the highes % of total far
 ![image](https://user-images.githubusercontent.com/94148420/150707398-0c9e8fcc-c621-4e46-85f8-f693653d2db9.png)
 
 The driver count data demonstrated that urban had the highest average number of drivers at 36.7 drivers, followed by suburban at an average of 13.7 drivers, with rural having the lowest averagae number of drivers at 4.3 drivers.
+
 ![image](https://user-images.githubusercontent.com/94148420/150707886-e3a1af00-9263-4cfe-aa09-f10afba6c0d7.png)
 
 The percent of total drivers correlated directly with the average number of drivers by city type with urban having the greatest percent of total drivers at 80.9%, followed by suburban at 16.5%, with rural having the lowest number of percent total drivers at 2.6%.
+
 ![image](https://user-images.githubusercontent.com/94148420/150708086-9a0656dc-3375-482f-92cd-7f42e99aed07.png)
 
+The following is an overall summary of the PyBer ridesharing data.
 
-
-
+![image](https://user-images.githubusercontent.com/94148420/150708816-b2f17fd2-10aa-49bb-acd2-a2f566514fa5.png)
 
 
 
